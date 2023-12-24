@@ -1,1 +1,2 @@
 # ed-zsh
+run `./install`
